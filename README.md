@@ -11,4 +11,11 @@ Além disso, o Git nos ajuda muito a controlar o fluxo de novas funcionalidades 
 
 Cada diretório de trabalho do Git é um repositório com um histórico completo e com habilidade total de acompanhamento das revisões, não dependente de acesso a uma rede ou a um servidor central. 
 
+[Documentação Técnica](https://git-scm.com/docs)
 
+
+##GitHub
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
+
+ Hoje o GitHub abriga mais de 100 milhões de projetos, alguns deles que são conhecidos mundialmente. [WordPress](https://github.com/WordPress), GNU/Linux, [Atom](https://github.com/Atom), [Electron](https://github.com/Electron). GitHub também oferece suporte ao recurso de organizacão que é amplamente utilizado por aqueles que querem uma escala maior para seus projetos. Na maioria das vezes, o recurso é usado por empresas já existentes como a [Google](https://github.com/Google), [Microsoft](https://github.com/Microsoft) e [WordPress](https://github.com/WordPress).
